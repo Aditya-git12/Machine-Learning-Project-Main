@@ -196,15 +196,9 @@ If you would like to contribute:
 
 ---
 
-## 👨‍💻 Author
 
-**Kartik Dhobale**
 
-Machine Learning Enthusiast
 
-GitHub: https://github.com/KartikDhobale
-
----
 
 ## ⭐ Support
 
